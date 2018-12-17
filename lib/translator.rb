@@ -1,6 +1,6 @@
 # require modules here
 require "yaml"
-
+YAML.load_file()
 def load_library
   # code goes here
 end
